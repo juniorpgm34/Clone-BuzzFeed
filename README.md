@@ -1,4 +1,4 @@
-<h1 align="center" font-size="300px" > Clone BuzzFeed </h1>
+<h1 align="center"> Clone BuzzFeed </h1>
 
 # :computer: Projeto
 Este é um projeto desenvolvido em Angular que consiste em um clone do BuzzFeed com um quiz para descobrir se você é um super-herói ou um super-vilão.
