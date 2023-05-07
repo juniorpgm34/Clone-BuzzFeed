@@ -1,4 +1,5 @@
 <h1> Clone BuzzFeed </h1>
+
 # Sobre o Projeto
 Este é um projeto desenvolvido em Angular que consiste em um clone do BuzzFeed com um quiz para descobrir se você é um super-herói ou um super-vilão.
 
@@ -18,6 +19,7 @@ Para utilizar este projeto, você precisa clonar este repositório em sua máqui
 
 ````
 npm install
+````
 ````
 ng serve
 ````
