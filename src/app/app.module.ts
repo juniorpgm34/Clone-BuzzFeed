@@ -20,3 +20,4 @@ import { HomeComponent } from './pages/home/home.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+//teste
