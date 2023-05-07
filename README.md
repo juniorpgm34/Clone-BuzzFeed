@@ -5,8 +5,6 @@ Este é um projeto desenvolvido em Angular que consiste em um clone do BuzzFeed 
 
 O projeto possui um conjunto de perguntas e respostas que são exibidas para o usuário, e ao final do quiz, o resultado é apresentado, indicando se o usuário tem características de um super-herói ou de um super-vilão.
 
-Este projeto é ideal para quem deseja aprender Angular e praticar a criação de uma aplicação interativa e dinâmica.
-
 # :technologist: Tecnologias Utilizadas
 
 - Angular
