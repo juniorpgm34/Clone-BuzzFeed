@@ -10,9 +10,12 @@ Este projeto é ideal para quem deseja aprender Angular e praticar a criação d
 # :technologist: Tecnologias Utilizadas
 
 - Angular
+
 - TypeScript
+
 - HTML
-= CSS
+
+- CSS
 
 # :inbox_tray: Como utilizar o projeto
 Para utilizar este projeto, você precisa clonar este repositório em sua máquina local e executar os seguintes comandos:
