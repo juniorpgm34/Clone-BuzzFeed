@@ -1,20 +1,20 @@
 <h1> Clone BuzzFeed </h1>
 
-# Sobre o Projeto
+# :computer: Projeto
 Este é um projeto desenvolvido em Angular que consiste em um clone do BuzzFeed com um quiz para descobrir se você é um super-herói ou um super-vilão.
 
 O projeto possui um conjunto de perguntas e respostas que são exibidas para o usuário, e ao final do quiz, o resultado é apresentado, indicando se o usuário tem características de um super-herói ou de um super-vilão.
 
 Este projeto é ideal para quem deseja aprender Angular e praticar a criação de uma aplicação interativa e dinâmica.
 
-# Tecnologias Utilizadas
+# :technologist: Tecnologias Utilizadas
 
-Angular
-TypeScript
-HTML
-CSS
+- Angular
+- TypeScript
+- HTML
+= CSS
 
-# Como utilizar o projeto
+# :inbox_tray: Como utilizar o projeto
 Para utilizar este projeto, você precisa clonar este repositório em sua máquina local e executar os seguintes comandos:
 
 ````
