@@ -18,7 +18,7 @@ import { HomeComponent } from './pages/home/home.component';
     AppRoutingModule
   ],
   providers: [
-    { provide: APP_BASE_HREF, useValue: '/' }
+    { provide: APP_BASE_HREF, useValue: '/Clone-BuzzFeed/' }
   ],
   bootstrap: [AppComponent]
 })
