@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import quizz_questions from "src/assets/data/quizz_questions.json"
-import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-quizz',
@@ -21,7 +20,7 @@ export class QuizzComponent implements OnInit {
 
   finished:boolean = false
 
-  constructor(private router: Router) { }
+  constructor() { }
 
   ngOnInit(): void {
     if(quizz_questions){
@@ -69,8 +68,8 @@ export class QuizzComponent implements OnInit {
   }
 
   voltarPaginaInicial() {
-    this.router.navigate(['/Clone-BuzzFeed/']); // redireciona para a rota da página inicial
-    console.log(this.router)
+    window.location.reload();
+
   }
 
 }
