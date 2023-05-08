@@ -27,6 +27,9 @@ ng serve
 
 Após a instalação das dependências e a execução do comando ng serve, o projeto estará disponível no endereço http://localhost:4200/.
 
+# Git Hub Pages
+https://juniorpgm34.github.io/Clone-BuzzFeed/
+
 # Contribuição
 Contribuições são sempre bem-vindas! Se você deseja contribuir com este projeto, sinta-se à vontade para abrir um pull request ou uma issue.
 
