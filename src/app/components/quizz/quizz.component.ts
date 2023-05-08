@@ -67,7 +67,7 @@ export class QuizzComponent implements OnInit {
     return result
   }
 
-  voltarPaginaInicial() {
+  voltarPaginaInicial():void {
     window.location.reload();
 
   }
